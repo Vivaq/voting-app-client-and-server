@@ -1,0 +1,11 @@
+<resources>
+    <string name="ip_2_bytes">192.168</string>
+    <string name="accept_new_ip">Apply</string>
+    <string name="new_ip">Enter new servers IP address</string>
+    <string name="app_name">RKN app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

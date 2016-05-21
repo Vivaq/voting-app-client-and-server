@@ -1,0 +1,15 @@
+<head>
+    <style>
+        textarea {
+            width: 500px;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.abc }}
+        <input class="tiny button" type="submit" value="write">
+    </form>
+</body>
